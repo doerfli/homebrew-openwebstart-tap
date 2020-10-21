@@ -1,8 +1,8 @@
 cask "openwebstart3-adcubum-config" do
     depends_on cask: "openwebstart3"
-    version "1.0.0"
-    sha256 "c1c11c0c9d53931207ad40b623560188fe3ccc410a1035ea15b51d1579cf5049"
-    url "https://git.adcubum.com/rest/api/latest/projects/~MDOERFLINGER/repos/openwebstart3/archive?format=zip"
+    version "1.0.1"
+    sha256 "b8852525ae66052f79ec553e1e912b5a9eeb1acedae6f110a9eb27d04e8dd733"
+    url "https://files.internal.adcubum.com/openwebstart/openwebstart3-config_1.0.1.zip"
     name "OpenWebStart3 Adcubum config"
     desc "Adcubum configuration for openwebstart"
     
