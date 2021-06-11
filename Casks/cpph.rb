@@ -1,6 +1,6 @@
 cask "cpph" do
   version "1.0.0"
-  sha256 "ea4cff76664b17b0bba7737b0217ddf21b672d5acd0d53bd290ba73afa512a97"
+  sha256 "379997ec7fc998f282316c18abd3966369cc4f0c50a47268dd3b98ef99ee76b1"
 
   url "artifact.devres.internal.adcubum.com/artifactory/adcubum-library-releases/com/adcubum/clientpush/adcubum-clientpush-installer/mac/CPProtocolHandler.pkg"
   appcast "https://www.avatron.com/updates/software/airdisplay/appcast.xml"
