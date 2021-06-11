@@ -3,7 +3,6 @@ cask "cpph" do
   sha256 "379997ec7fc998f282316c18abd3966369cc4f0c50a47268dd3b98ef99ee76b1"
 
   url "artifact.devres.internal.adcubum.com/artifactory/adcubum-library-releases/com/adcubum/clientpush/adcubum-clientpush-installer/mac/CPProtocolHandler.pkg"
-  appcast "https://www.avatron.com/updates/software/airdisplay/appcast.xml"
   name "Clientpush Protocolhandler"
   desc "used to start adcubum SYRIUS (ERP Core/FX Client) from a third party application"
 
