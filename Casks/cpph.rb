@@ -1,6 +1,6 @@
 cask "cpph" do
-  version "1.0.1"
-  sha256 "379997ec7fc998f282316c18abd3966369cc4f0c50a47268dd3b98ef99ee76b1"
+  version "1.0.2"
+  sha256 "a8a0a871a04c328d3c6a84a436bd4f2a29d34a8e1f62ad928774664d6987b104"
 
   url "artifact.devres.internal.adcubum.com/artifactory/adcubum-library-releases/com/adcubum/clientpush/adcubum-clientpush-installer/mac/CPProtocolHandler.pkg"
   name "Clientpush Protocolhandler"
