@@ -1,9 +1,1 @@
-# Doerfli Openwebstart-tap
-
-## How do I install these formulae?
-`brew install doerfli/openwebstart-tap/<formula>`
-
-Or `brew tap doerfli/openwebstart-tap` and then `brew install <formula>`.
-
-## Documentation
-`brew help`, `man brew` or check [Homebrew's documentation](https://docs.brew.sh).
+⚠️ This tap is deprecated. Use the [internal tap](https://git.adcubum.com/projects/DXE/repos/homebrew/).
